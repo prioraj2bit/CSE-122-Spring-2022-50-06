@@ -13,3 +13,6 @@ Intake: 50
 
 Section: 6
 
+<div id="header" align="center">
+  <img src="https://giphy.com/gifs/Capcom-YeyF7i516VOIvOHew8" width="100"/>
+</div>
